@@ -1,7 +1,7 @@
 # Reusable-components
 
-Navbar
-SideBar
-Landing page
-Buttons
-Cards
+# Navbar
+# SideBar
+# Landing page
+# Buttons
+# Cards
